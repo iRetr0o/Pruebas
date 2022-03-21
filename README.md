@@ -10,5 +10,6 @@ Un repositorio especialmente para hacer pruebas de Git y GitHub
 * El amor por las buenas practicas
 * Trucos muy locos
 * Creado por el increible OG
+* incluye ejemplos en Windows, Linux y Mac
 
 Si quieres saber mas ve al siguiente [**link**](https://platzi.com/cursos/git-github/)
