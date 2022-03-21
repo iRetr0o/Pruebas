@@ -9,5 +9,6 @@ Un repositorio especialmente para hacer pruebas de Git y GitHub
 * El flujo de trabajo en Github
 * El amor por las buenas practicas
 * Trucos muy locos
+* Creado por el increible OG
 
 Si quieres saber mas ve al siguiente [**link**](https://platzi.com/cursos/git-github/)
