@@ -1,0 +1,23 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "description": "Un repositorio especialmente para hacer pruebas de Git y GitHub\r >  Este repositorio es lo que utilizo para probar funciones que tiene tanto el sistema de control de versiones Git y la plataforma GitHub\r > - Retr0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iRetr0o/Pruebas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iRetr0o/Pruebas/issues"
+  },
+  "homepage": "https://github.com/iRetr0o/Pruebas#readme"
+}
