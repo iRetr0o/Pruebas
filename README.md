@@ -1,7 +1,8 @@
 # Pruebas 🧰
 
 Un repositorio especialmente para hacer pruebas de Git y GitHub
->  Este repositorio es lo que utilizo para probar funciones que tiene tanto el sistema de control de versiones Git y la plataforma GitHub
+> [!NOTE]
+> Este repositorio es lo que utilizo para probar funciones que tiene tanto el sistema de control de versiones Git y la plataforma GitHub
 > - Retr0
 
 ## En este repositorio he probado de todo
