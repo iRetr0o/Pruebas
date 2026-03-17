@@ -7,7 +7,7 @@ Un repositorio especialmente para hacer pruebas de Git y GitHub
 
 ## En este repositorio he probado de todo
 - Comandos de Git
-- El flujo de trabajo en Github
+- El flujo de trabajo en GitHub
 - El amor por las buenas practicas
 - Trucos muy locos
 - incluye ejemplos en Windows, Linux y Mac
